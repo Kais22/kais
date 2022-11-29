@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Page_Login_Selenuim_Demo/Page_Login_Selenuim_Demo.iml" filepath="$PROJECT_DIR$/Page_Login_Selenuim_Demo/Page_Login_Selenuim_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kais.iml" filepath="$PROJECT_DIR$/.idea/kais.iml" />
+    </modules>
+  </component>
+</project>
